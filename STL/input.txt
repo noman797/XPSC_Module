@@ -1,0 +1,4 @@
+3
+rahim 10
+karim 2
+bablu 5
